@@ -1,4 +1,4 @@
-## Hi there 👋
+## どもども！
 
 <!--
 **spicyterutilla-lgtm/spicyterutilla-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
