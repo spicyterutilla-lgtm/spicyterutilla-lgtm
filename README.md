@@ -10,11 +10,8 @@
 - 🔭 **Working on:** IoTデバイスの開発 / バンニングシミュレーションソフトの構築
 - 🌱 **Learning:** 情報工学全般 / 宇宙惑星科学
 - 👯 **Looking to collaborate:** IoT関連プロジェクト
-- 💬 **Ask me about:** 映画やバスケの話、おすすめのカフェ情報
+- 💬 **Ask me about:** 服やバスケの話、おすすめのカフェ
 
 ## 💡 Persona
 - 😄 **MBTI:** INTP-A (論理学者)
-- ⚡ **Fun fact:** 趣味は服とバスケと配信視聴です。コーディングのお供には肉、パスタ、果物、スイーツが欠かせません！
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=spicyterutilla-lgtm&show_icons=true&theme=transparent)
+- ⚡ **Fun fact:** 趣味は服とバスケと配信視聴です。肉、パスタ、果物、スイーツが好き
