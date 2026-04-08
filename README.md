@@ -1,16 +1,20 @@
-## どもども！
+# Hi there 👋 I'm spicyterutilla
 
-<!--
-**spicyterutilla-lgtm/spicyterutilla-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+情報工学（IoT）を専攻する大学生です。
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 **Working on:** IoTデバイスの開発 / バンニングシミュレーションソフトの構築
+- 🌱 **Learning:** 情報工学全般 / 宇宙惑星科学
+- 👯 **Looking to collaborate:** IoT関連プロジェクト
+- 💬 **Ask me about:** 映画やバスケの話、おすすめのカフェ情報
+
+## 💡 Persona
+- 😄 **MBTI:** INTP-A (論理学者)
+- ⚡ **Fun fact:** 趣味は服とバスケと配信視聴です。コーディングのお供には肉、パスタ、果物、スイーツが欠かせません！
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=spicyterutilla-lgtm&show_icons=true&theme=transparent)
